@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 | Atualmente estou estudando em período integral em um colégio profissionalizante fazendo o curso de Técnico de Informática.<br>🤝 | Já trabalhei com back-end e sei o básico de front-end.<br>🌱 | Atualmente estou aprendendo REACT e NODE.JS.<br>⚡ | Uma curiosidade minha é que comecei com a programação com meus 13 anos de idade, sem saber nem como escrever uma linha mas já querendo ingressar nesse área da tecnologia. Com o tempo fui conhecendo mais sobre o assunto e conseguindo evoluir mais na programação.
+💬 | Atualmente estou estudando em período integral em um colégio profissionalizante fazendo o curso de Técnico de Informática.<br>🤝 | Já trabalhei com back-end e sei o básico de front-end.<br>🌱 | Atualmente estou aprendendo REACT, NEST.JS e PYTHON.<br>⚡ | Uma curiosidade minha é que comecei com a programação com meus 13 anos de idade, sem saber nem como escrever uma linha mas já querendo ingressar nesse área da tecnologia. Com o tempo fui conhecendo mais sobre o assunto e conseguindo evoluir mais na programação.
 
 
 ## 🌐 Social:
