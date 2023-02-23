@@ -15,9 +15,6 @@
 ### ✍️ Citação:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Meme Dev:
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=jhonvicc&icon=5&color=6)](https://visitcount.itsvg.in)
 
